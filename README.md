@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erni Widi Astuti</h1>
-<h3 align="center">An Economics Graduate with strong interest on turning data into strategic insights to helps better and efficiency decision making through dashboard, report, and visualisation.</h3>
+<h3 align="center">I enjoy working with numbers and solving problems using data. I have strong analytical thinking and learn new tools and technology quickly. My goal is to help businesses make better decisions by finding useful insights from data.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
