@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erni Widi Astuti</h1>
-<h3 align="center">An Economics Graduate with a strong interest in Data Analytics and Research</h3>
+<h3 align="center">An Economics Graduate with strong interest on turning data into strategic insights to helps better and efficiency decision making through dashboard, report, and visualisation.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
